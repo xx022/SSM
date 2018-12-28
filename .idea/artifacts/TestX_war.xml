@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestX:war">
+    <output-path>$PROJECT_DIR$/../../../worksoft/apache-tomcat-7.0.85/TestX</output-path>
+    <root id="archive" name="TestX.war">
+      <element id="artifact" artifact-name="TestX:war exploded" />
+    </root>
+  </artifact>
+</component>
