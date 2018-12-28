@@ -2,6 +2,9 @@ package com.xx.test.model;
 
 import java.util.Date;
 
+/**
+ *
+ */
 public class User {
     private Integer id;
 
